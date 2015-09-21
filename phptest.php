@@ -1,0 +1,4 @@
+<?php
+skjdfksjfksdjfskd
+phpinfo();
+?>
